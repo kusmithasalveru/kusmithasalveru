@@ -185,17 +185,21 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 
 ---
 
+---
+
 # GitHub Contributions
 
-- Consistently working on projects, improving development skills and contributing through hands-on practice.
-- Focused on building scalable applications, backend systems and DevOps workflows.
+- Consistently building projects and improving development skills through hands-on practice.
+- Focused on backend development, scalable systems and DevOps workflows.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kusmithasalveru&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kusmithasalveru&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusmithasalveru&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusmithasalveru&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kusmithasalveru&theme=tokyonight"/>
 </p>
 
 ---
