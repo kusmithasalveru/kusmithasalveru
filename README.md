@@ -110,6 +110,16 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 
 # Certifications
 
+- **AWS Cloud Practitioner** — Built strong understanding of cloud computing, AWS core services and deployment fundamentals.
+
+- **Microsoft Azure AZ-900** — Learned Azure architecture, cloud concepts, networking, security and resource management.
+
+- **MongoDB Developer Associate** — Strengthened knowledge in NoSQL databases, document-based storage and scalable backend integration.
+
+- **Salesforce AI Associate** — Gained foundational understanding of AI concepts and Salesforce AI capabilities.
+
+- **Smart Interviews Bronze Certification** — Demonstrated strong problem-solving and coding fundamentals through competitive programming assessments.
+
 <p>
   <a href="https://github.com/kusmithasalveru/Certifications/blob/main/AWS%20Cloud%20Practitioner.pdf">
     <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -140,10 +150,10 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 
 # Hackathons & Workshops
 
-- Participated in **Guidewire Hackathon 2026**
-- Built **GigShield – AI-Based Fraud Detection System**
-- Completed Cloud & DevOps workshops
-- Participated in technical ideathons & engineering workshops
+- Participated in **Guidewire Hackathon 2026**, where I worked on an AI-powered fraud detection system for gig workers.
+- Built **GigShield**, a scalable backend-focused platform with real-time processing and automated workflows.
+- Attended Cloud & DevOps workshops focused on Docker, Jenkins, CI/CD and deployment practices.
+- Participated in technical ideathons and engineering workshops to improve problem-solving and software development skills.
 
 ### Certificates Repository
 
@@ -154,6 +164,10 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 ---
 
 # Competitive Programming
+
+- Regularly solving problems on LeetCode and CodeChef to strengthen problem-solving and DSA skills.
+- Focused on improving logical thinking, coding efficiency and interview preparation.
+- Earned **Smart Interviews Bronze Certification** in Problem Solving.
 
 <p align="left">
   <a href="https://leetcode.com/u/2300032520_klu/">
@@ -173,6 +187,9 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 
 # GitHub Contributions
 
+- Consistently working on projects, improving development skills and contributing through hands-on practice.
+- Focused on building scalable applications, backend systems and DevOps workflows.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kusmithasalveru&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
@@ -190,6 +207,7 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 - System Design
 - Full Stack Development
 - Open Source Contributions
+- Scalable Application Development
 
 ---
 
