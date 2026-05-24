@@ -193,17 +193,13 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 - Actively maintaining repositories and improving problem-solving through coding practice.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kusmithasalveru&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kusmithasalveru&theme=tokyonight"/>
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kusmithasalveru&show_icons=true&theme=tokyonight&hide_border=true"/>
 
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusmithasalveru&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kusmithasalveru&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
