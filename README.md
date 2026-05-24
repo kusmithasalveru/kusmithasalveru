@@ -28,96 +28,87 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-# 🚀 About Me
+## About Me
 
-- 🎓 B.Tech Computer Science Student at **KL University**
-- 📊 CGPA: **9.68**
-- 💻 Passionate about **Full Stack Development & Backend Engineering**
-- ☁️ Interested in **Cloud, DevOps & Scalable Systems**
-- 🧠 Strong in **Problem Solving & Data Structures**
-- ⚙️ Love building real-world scalable applications
-- 🌱 Currently learning **Advanced Backend, Kubernetes & System Design**
-- 🚀 Active learner in Open Source & Software Engineering
+- B.Tech Computer Science Student at **KL University**
+- CGPA: **9.68**
+- Interested in **Full Stack Development, Backend Engineering & DevOps**
+- Strong in **Problem Solving & Data Structures**
+- Passionate about building scalable real-world applications
+- Currently learning **Advanced Backend, Kubernetes & System Design**
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-### 🚀 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,python" />
 </p>
 
-### 🌐 Full Stack Development
+### Full Stack Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring,fastapi" />
 </p>
 
-### 🛢 Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,linux,git,nginx" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
-## 🛡 GigShield – AI-Based Fraud Detection System
+## GigShield – AI-Based Fraud Detection System
 
-🔹 Built scalable real-time income protection system for gig workers  
-🔹 Implemented fraud detection using Isolation Forest  
-🔹 Dynamic pricing using XGBoost  
-🔹 Distributed backend using Node.js, FastAPI, Redis & PostgreSQL  
-🔹 Automated trigger-based payout processing  
+- Built scalable real-time income protection system for gig workers
+- Implemented fraud detection using Isolation Forest
+- Used Node.js, FastAPI, Redis & PostgreSQL
+- Automated trigger-based payout processing
 
-### ⚡ Tech Stack
-`Node.js` `FastAPI` `Redis` `PostgreSQL` `Machine Learning`
+`Node.js` `FastAPI` `Redis` `PostgreSQL`
 
 ---
 
-## 🎉 KL Surabhi – Scalable Event Management Platform
+## KL Surabhi – Scalable Event Management Platform
 
-🔹 Developed platform supporting 100,000+ users  
-🔹 Optimized backend performance and scalability  
-🔹 Deployed on AWS with Nginx Load Balancing  
-🔹 Ensured high availability architecture  
+- Developed platform supporting 100,000+ users
+- Optimized backend performance and scalability
+- Deployed on AWS with Nginx Load Balancing
 
-### ⚡ Tech Stack
-`AWS` `Nginx` `Backend Optimization`
+`AWS` `Nginx` `Backend`
 
 ---
 
-## 💰 ChitMitra – Fintech Savings Platform
+## ChitMitra – Fintech Savings Platform
 
-🔹 Full-stack chit fund management application  
-🔹 Secure backend architecture  
-🔹 Integrated CI/CD pipelines for automated deployment  
+- Full-stack chit fund management application
+- Secure backend architecture
+- Integrated CI/CD pipelines for deployment
 
-### ⚡ Tech Stack
 `React` `Spring Boot` `Docker` `CI/CD`
 
 ---
 
-## 🎓 EduConnect – Learning & Mentorship Platform
+## EduConnect – Learning & Mentorship Platform
 
-🔹 LMS platform with discussion forums & dashboards  
-🔹 JWT authentication using Spring Security  
-🔹 Automated certificate generation system  
-🔹 Responsive frontend with analytics dashboard  
+- LMS platform with dashboards & discussion forums
+- JWT authentication using Spring Security
+- Responsive frontend with analytics dashboard
 
-### ⚡ Tech Stack
 `React` `Spring Boot` `JWT` `MySQL`
 
 ---
 
-# 🏆 Certifications
+# Certifications
 
 <p>
   <a href="https://github.com/kusmithasalveru/Certifications/blob/main/AWS%20Cloud%20Practitioner.pdf">
@@ -147,24 +138,22 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 
 ---
 
-# 🏅 Hackathons & Workshops
+# Hackathons & Workshops
 
-- 🚀 Participated in **Guidewire Hackathon 2026**
-- 💡 Built **GigShield – AI-Based Fraud Detection System**
-- ☁️ Completed Cloud & DevOps workshops with hands-on CI/CD exposure
-- ⚙️ Participated in technical ideathons & engineering workshops
-- 🧠 Active learner in scalable backend systems & distributed architectures
+- Participated in **Guidewire Hackathon 2026**
+- Built **GigShield – AI-Based Fraud Detection System**
+- Completed Cloud & DevOps workshops
+- Participated in technical ideathons & engineering workshops
 
-### 📜 Certificates Repository
+### Certificates Repository
 
-👉 **All Certificates:**  
 <a href="https://github.com/kusmithasalveru/Certifications">
   <img src="https://img.shields.io/badge/View-All_Certificates-blue?style=for-the-badge"/>
 </a>
 
 ---
 
-# 💻 Competitive Programming
+# Competitive Programming
 
 <p align="left">
   <a href="https://leetcode.com/u/2300032520_klu/">
@@ -182,7 +171,7 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 
 ---
 
-# 📊 GitHub Contributions
+# GitHub Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kusmithasalveru&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -194,29 +183,17 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 
 ---
 
-# 🌟 Current Focus
+# Current Focus
 
-- ⚙️ Backend Engineering
-- ☁️ Cloud & DevOps
-- 🧩 System Design
-- 💻 Full Stack Development
-- 🚀 Open Source Contributions
-- 📈 Scalable Distributed Systems
-
----
-
-# 🏆 Achievements
-
-- 🧠 Solved 300+ Coding Problems
-- 🚀 Built scalable real-world full stack applications
-- ☁️ AWS & Azure Certified
-- ⚙️ Hands-on experience with Docker, Jenkins & CI/CD
-- 💡 Participated in Hackathons & Technical Workshops
-- 🏅 Smart Interviews Bronze Certification in Problem Solving
+- Backend Engineering
+- Cloud & DevOps
+- System Design
+- Full Stack Development
+- Open Source Contributions
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kusmithasalveru/">
@@ -230,20 +207,10 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
   <a href="https://github.com/kusmithasalveru">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-
-  <a href="https://leetcode.com/u/2300032520_klu/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kusmithasalveru&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
-<p align="center">
-  ⭐️ From <b>Kusmitha Salveru</b>
+  <img src="https://komarev.com/ghpvc/?username=kusmithasalveru&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
