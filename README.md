@@ -2,13 +2,13 @@
 <h3 align="center">Engineering Student | Open Source Learner | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge" />
+  <a href="LINKEDLN">
+    <img src="https://www.linkedin.com/in/kusmithasalveru/" />
   </a>
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
+  <a href="CODECHEF">
+    <img src="https://www.codechef.com/users/klu_2300032520" />
   </a>
-  <a href="YOUR_LEETCODE">
-    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge" />
+  <a href="LEETCODE">
+    <img src="https://leetcode.com/u/2300032520_klu/" />
   </a>
 </p>
