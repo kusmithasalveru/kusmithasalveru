@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kusmitha Salveru</h1>
-<h3 align="center">Computer Science Undergraduate | Backend & DevOps Enthusiast | AI/ML Explorer</h3>
+
+<h3 align="center">
+Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast • Problem Solver
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kusmithasalveru/">
@@ -29,14 +32,14 @@
 
 # 🚀 About Me
 
-- 🎓 B.Tech CSE Student at **KL University**
-- 📊 Current CGPA: **9.68**
-- ☁️ Passionate about **Backend Development, DevOps & Cloud**
-- 🔥 Building scalable applications & distributed systems
-- 🤖 Exploring AI/ML-powered real-world solutions
-- 🧠 Strong interest in System Design & Scalable Architectures
-- 🌱 Currently learning **Advanced Backend + Kubernetes + System Design**
-- ⚡ Love solving real-world engineering problems
+- 🎓 B.Tech Computer Science Student at **KL University**
+- 📊 CGPA: **9.68**
+- 💻 Passionate about **Full Stack Development & Backend Engineering**
+- ☁️ Interested in **Cloud, DevOps & Scalable Systems**
+- 🧠 Strong in **Problem Solving & Data Structures**
+- ⚙️ Love building real-world scalable applications
+- 🌱 Currently learning **Advanced Backend, Kubernetes & System Design**
+- 🚀 Active learner in Open Source & Software Engineering
 
 ---
 
@@ -47,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,python" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Full Stack Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,spring,fastapi" />
 </p>
@@ -69,7 +72,7 @@
 ## 🛡 GigShield – AI-Based Fraud Detection System
 
 🔹 Built scalable real-time income protection system for gig workers  
-🔹 Implemented ML-based fraud detection using Isolation Forest  
+🔹 Implemented fraud detection using Isolation Forest  
 🔹 Dynamic pricing using XGBoost  
 🔹 Distributed backend using Node.js, FastAPI, Redis & PostgreSQL  
 🔹 Automated trigger-based payout processing  
@@ -93,9 +96,9 @@
 
 ## 💰 ChitMitra – Fintech Savings Platform
 
-🔹 Full-stack chit fund management system  
+🔹 Full-stack chit fund management application  
 🔹 Secure backend architecture  
-🔹 CI/CD pipeline integration for automated deployment  
+🔹 Integrated CI/CD pipelines for automated deployment  
 
 ### ⚡ Tech Stack
 `React` `Spring Boot` `Docker` `CI/CD`
@@ -104,10 +107,10 @@
 
 ## 🎓 EduConnect – Learning & Mentorship Platform
 
-🔹 LMS platform with dashboards & discussion forums  
+🔹 LMS platform with discussion forums & dashboards  
 🔹 JWT authentication using Spring Security  
-🔹 Automated certificate generation  
-🔹 Analytics visualization & responsive frontend  
+🔹 Automated certificate generation system  
+🔹 Responsive frontend with analytics dashboard  
 
 ### ⚡ Tech Stack
 `React` `Spring Boot` `JWT` `MySQL`
@@ -117,11 +120,47 @@
 # 🏆 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-Developer_Associate-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-Networking_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <a href="https://github.com/kusmithasalveru/Certifications/blob/main/AWS%20Cloud%20Practitioner.pdf">
+    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/kusmithasalveru/Certifications/blob/main/AZ-900.pdf">
+    <img src="https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/kusmithasalveru/Certifications/blob/main/MongoDB%20Developer%20Associate.pdf">
+    <img src="https://img.shields.io/badge/MongoDB-Developer_Associate-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/kusmithasalveru/Certifications/blob/main/Cisco%20Networking%20Essentials.pdf">
+    <img src="https://img.shields.io/badge/Cisco-Networking_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/kusmithasalveru/Certifications/blob/main/Salesforce%20AI%20Associate.pdf">
+    <img src="https://img.shields.io/badge/Salesforce-AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/kusmithasalveru/Certifications/blob/main/Smart%20Interviews%20Bronze.pdf">
+    <img src="https://img.shields.io/badge/Smart_Interviews-Bronze_Problem_Solving-brown?style=for-the-badge"/>
+  </a>
 </p>
+
+---
+
+# 🏅 Hackathons & Workshops
+
+- 🚀 Participated in **Guidewire Hackathon 2026**
+- 💡 Built **GigShield – AI-Based Fraud Detection System**
+- ☁️ Completed Cloud & DevOps workshops with hands-on CI/CD exposure
+- ⚙️ Participated in technical ideathons & engineering workshops
+- 🧠 Active learner in scalable backend systems & distributed architectures
+
+### 📜 Certificates Repository
+
+👉 **All Certificates:**  
+<a href="https://github.com/kusmithasalveru/Certifications">
+  <img src="https://img.shields.io/badge/View-All_Certificates-blue?style=for-the-badge"/>
+</a>
 
 ---
 
@@ -135,18 +174,18 @@
   <a href="https://www.codechef.com/users/klu_2300032520">
     <img src="https://img.shields.io/badge/CodeChef-200%2B_Problems-brown?style=for-the-badge&logo=codechef"/>
   </a>
+
+  <a href="https://github.com/kusmithasalveru/Certifications/blob/main/Smart%20Interviews%20Bronze.pdf">
+    <img src="https://img.shields.io/badge/Smart_Interviews-Bronze_Certificate-gold?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kusmithasalveru&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusmithasalveru&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kusmithasalveru&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -157,22 +196,23 @@
 
 # 🌟 Current Focus
 
-- 🔥 Open Source Contributions
 - ⚙️ Backend Engineering
 - ☁️ Cloud & DevOps
 - 🧩 System Design
-- 🤖 AI-powered Applications
+- 💻 Full Stack Development
+- 🚀 Open Source Contributions
 - 📈 Scalable Distributed Systems
 
 ---
 
-# 🏅 Achievements
+# 🏆 Achievements
 
 - 🧠 Solved 300+ Coding Problems
-- 🚀 Built scalable full-stack applications
-- 🛡 Participated in Guidewire Hackathon
+- 🚀 Built scalable real-world full stack applications
 - ☁️ AWS & Azure Certified
-- ⚙️ Hands-on experience with CI/CD & Docker
+- ⚙️ Hands-on experience with Docker, Jenkins & CI/CD
+- 💡 Participated in Hackathons & Technical Workshops
+- 🏅 Smart Interviews Bronze Certification in Problem Solving
 
 ---
 
@@ -189,6 +229,10 @@
 
   <a href="https://github.com/kusmithasalveru">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://leetcode.com/u/2300032520_klu/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
