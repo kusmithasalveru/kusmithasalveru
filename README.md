@@ -184,6 +184,7 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 </p>
 
 ---
+---
 
 # GitHub Contributions
 
@@ -192,7 +193,11 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 - Actively maintaining repositories and improving problem-solving through coding practice.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kusmithasalveru&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kusmithasalveru&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kusmithasalveru&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
