@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">Engineering Student | Open Source Learner | AI/ML Enthusiast</h3>
 
-<!--
-**kusmithasalveru/kusmithasalveru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge" />
+  </a>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
+  </a>
+  <a href="YOUR_LEETCODE">
+    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge" />
+  </a>
+</p>
