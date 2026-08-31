@@ -33,7 +33,7 @@ Computer Science Undergraduate • Full Stack Developer • DevOps Enthusiast �
 ## About Me
 
 - B.Tech Computer Science Student at **KL University**
-- CGPA: **9.68**
+- CGPA: **9.71**
 - Interested in **Full Stack Development, Backend Engineering & DevOps**
 - Strong in **Problem Solving & Data Structures**
 - Passionate about building scalable real-world applications
